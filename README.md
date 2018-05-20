@@ -45,3 +45,5 @@ YapıKredi Job'ı için 10 dakika da bir çalışması söylenmiştir.
   <li><b>WindsorJobFactory:</b>Quartz.NET içerisinde tanımlı olan jobların instancelarının oluşturulması için container'dan ilgili job nesnesini resolve eder.</li>
 
 </ul>
+
+<b>P.S : The English version of this file will be come soon. <b> 
