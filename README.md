@@ -1,4 +1,4 @@
-# Quartz.NET-3.0.3-Multiple-Instance-with-MSSQL-Castle Windsor
+# Quartz.NET-3.0.3-MSSQL-With Castle Windsor
 <p>Quartz.NET scheduler kütüphanesi kullanılarak oluşturulan jobların yönetimi ve bu jobların izlenmesi için ise 
 Sql Server Veritabanı kullanılmıştır.Bunun yanında uygulama içerisinde Quartz.NET'in desteklediği JobFactory ve JobLogger 
 yapılarını da içinde barındırırken bunlarla birlikte yer alan Castle Windsor kullanımıyla bağımlılıklar yönetilmeye çalışılmıştır.</p>
